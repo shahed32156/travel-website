@@ -20,7 +20,7 @@ num1={item.num1} num2={item.num2} num3={item.num3} num4={item.num4} num5={item.n
 
   return (
 
-    <div className=' bg-blue-500 py-10 mt-20 text-white px-8 md:px-20'>
+    <div className=' bg-purple-500 py-10 mt-20 text-white px-8 md:px-20'>
 
          <div className='mx-auto grid grid-cols-2 md:grid-cols-4 gap-10  mt-20'>
           
@@ -33,14 +33,14 @@ num1={item.num1} num2={item.num2} num3={item.num3} num4={item.num4} num5={item.n
                   <div className='flex gap-2'>
                     
                     <a href="#"><FaFacebook className='text-[25px]' /></a>
-                    <a href="#"><p>Facebook</p></a>
+                    <a className='md:hover:scale-105 md:hover:transition-all md:hover:duration-300' href="#"><p>Facebook</p></a>
 
                   </div>
 
                   <div className='flex gap-2'>
                     
                     <a href="#"><BsInstagram className='text-[25px]' /></a>
-                    <a href="#"><p>Instagram</p></a>
+                    <a className='md:hover:scale-105 md:hover:transition-all md:hover:duration-300' href="#"><p>Instagram</p></a>
                     
                   </div>
 
@@ -48,26 +48,30 @@ num1={item.num1} num2={item.num2} num3={item.num3} num4={item.num4} num5={item.n
                   <div className='flex gap-2'>
                     
                     <a href="#"><IoLogoTwitter className='text-[25px]' /></a>
-                    <a href="#"><p>Twitter</p></a>
+                    <a className='md:hover:scale-105 md:hover:transition-all md:hover:duration-300' href="#"><p>Twitter</p></a>
                     
                   </div>
 
                   <div className='flex gap-2'>
                     
                     <a href="#"><FaLinkedin className='text-[25px]' /></a>
-                    <a href="#"><p>Linkedin</p></a>
+                    <a className='md:hover:scale-105 md:hover:transition-all md:hover:duration-300' href="#"><p>Linkedin</p></a>
                     
                   </div>
 
                   <div className='flex gap-2'>
                     
                     <a href="#"><FaYoutube className='text-[25px]' /></a>
-                    <a href="#"><p>Youtube</p></a>
+                    <a className='md:hover:scale-105 md:hover:transition-all md:hover:duration-300' href="#"><p>Youtube</p></a>
                     
                   </div>
                 
                 </div>
                  </div>
+          </div>
+
+          <div className='mt-16 text-center font-bold'>
+          <p>Copyright ©2024 All rights reserved | Developed by Abdullah Shahed</p>  
           </div>      
 
     </div>

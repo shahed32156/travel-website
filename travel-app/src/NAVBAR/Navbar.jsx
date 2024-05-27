@@ -65,7 +65,7 @@ const Navbar = () => {
       <div className='mx-3 md:mx-36 mt-28 pb-28 absolute top-28'>
 
           <div>
-          <h1 className='text-[60px] font-mono w-[350px] font-bold leading-[70px]'>Enjoy Your Travel</h1>
+          <h1 className='text-[50px] md:text-[60px] font-mono w-[350px] font-bold leading-[70px]'>Enjoy Your Travel</h1>
           </div>
 
           <div className='mt-4'>
