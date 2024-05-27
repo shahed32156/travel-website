@@ -1,0 +1,33 @@
+[
+
+
+    {
+
+       "img" : "./Images/london.jpg",
+       "title" : "London",
+       "dollar" : "$499",
+       "hour": "4h - 5h"
+
+    },
+
+    {
+
+        "img" : "./Images/newyork.jpg",
+        "title" : "New York",
+        "dollar" : "$399",
+        "hour": "2h - 4h"
+ 
+     },
+
+     {
+
+        "img" : "./Images/dubai.jpg",
+        "title" : "Dubai",
+        "dollar" : "$450",
+        "hour": "7h - 8h"
+
+   }
+
+    
+
+]
